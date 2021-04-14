@@ -1,3 +1,4 @@
 This is a master
 
 This is an integration1
+- This is a featureA
