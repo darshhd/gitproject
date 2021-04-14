@@ -5,3 +5,6 @@ This is a hotfix1
 This is an integration1
 
 This is a featureb
+- This is a featureA
+
+- This is a feature for merging to all
