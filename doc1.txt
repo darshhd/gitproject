@@ -8,3 +8,5 @@ This is a featureb
 - This is a featureA
 
 - This is a feature for merging to all
+
+This is a hotfix change
